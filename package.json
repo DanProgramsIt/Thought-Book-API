@@ -1,0 +1,26 @@
+{
+  "name": "thought-book-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanProgramsIt/Thought-Book-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanProgramsIt/Thought-Book-API/issues"
+  },
+  "homepage": "https://github.com/DanProgramsIt/Thought-Book-API#readme",
+  "dependencies": {
+    "dayjs": "^1.11.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  }
+}
